@@ -1,4 +1,4 @@
-html
+html - Hyper text markup language
 ====
 
 Deliverables of the HTML Working Group
